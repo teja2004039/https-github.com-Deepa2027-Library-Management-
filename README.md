@@ -1,7 +1,7 @@
 # Library-Management-
 
-### NAME:VARNIKA.P
-### REG NO:212223240170
+### NAME:Kadhati Charan Teja
+### REG NO:212221040067
 
 
 # USECASE DIAGRAM:
